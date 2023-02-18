@@ -10,7 +10,7 @@ Ticket Vending Machine (TVM)
 |Jimi Mukeshchandra	Mehta|  |
 |Harshal Jigeshkumar	Modi | |
 |Sumit Vasharambhai	Monapara| |
-|Aashray	Munjal | |
+|Aashray	Munjal | |aashraymunjal@gmail.com|
 |Hema Reddy	Muppidi| |
 
 
