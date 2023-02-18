@@ -1,5 +1,7 @@
 # SOEN-6461_Project
 
+Ticket Vending Machine (TVM)
+
 ## Team Members
 
 | Name  | Student ID | Email ID
