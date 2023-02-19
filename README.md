@@ -7,7 +7,7 @@ Ticket Vending Machine (TVM)
 | Name  | Student ID | Email ID
 |-------|------------|-----------|
 |Mounika	Mannuru| 40161409|mounikamannuru98@gmail.com|
-|Jimi Mukeshchandra	Mehta|  |
+|Jimi Mukeshchandra	Mehta| 40225526 | jimimukeshchandra.mehta@mail.concordia.ca |
 |Harshal Jigeshkumar	Modi | |
 |Sumit Vasharambhai	Monapara| |
 |Aashray	Munjal | |aashraymunjal@gmail.com|
