@@ -10,7 +10,7 @@ Ticket Vending Machine (TVM)
 |Jimi Mukeshchandra	Mehta| 40225526 | jimimukeshchandra.mehta@mail.concordia.ca |
 |Harshal Jigeshkumar	Modi | 40195060| harshalmodi022@gmail.com |
 |Sumit Vasharambhai	Monapara| 40197174 | sumitmonapara@gmail.com |
-|Aashray	Munjal | |aashraymunjal@gmail.com|
+|Aashray	Munjal | 40227315 |aashraymunjal@gmail.com|
 |Hema Reddy	Muppidi| 40236911 | hemareddymuppidi@gmail.com
 
 
